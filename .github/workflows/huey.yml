@@ -15,6 +15,7 @@ jobs:
       - name: huey
         uses: softprops/action-gh-release@v1
         with:
+          tag_name: ${{ github.sha }}
           files: |
             Bazar/liveries/uh-1h/*
         env:
