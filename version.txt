@@ -1,9 +1,9 @@
 [Modules]
-A-10C = 1
-Harrier = 1
-E-2 = 1
-F-14B = 1
-F-15C = 1
-F-16C = 1
-F-18C = 1
-UH-1H = 1
+A-10C = 0
+Harrier = 0
+E-2 = 0
+F-14B = 0
+F-15C = 0
+F-16C = 0
+F-18C = 0
+UH-1H = 0
